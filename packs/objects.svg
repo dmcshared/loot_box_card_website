@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="cards.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview18612"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.0935553"
+     inkscape:cx="665.7185"
+     inkscape:cy="358.46381"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="pickaxe">
+    <inkscape:grid
+       type="xygrid"
+       id="grid18675"
+       empspacing="4"
+       spacingx="32"
+       spacingy="32" />
+  </sodipodi:namedview>
+  <defs
+     id="defs18607" />
+  <g
+     inkscape:label="Layer 1"
+     id="layer1">
+    <g
+       id="gold_chunk"
+       transform="translate(0,512)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
+         id="border"
+         width="512"
+         height="512"
+         x="0"
+         y="0"
+         inkscape:label="border">
+        <desc
+           id="desc7261">{
+               &quot;actions&quot;: [
+               {
+               &quot;type&quot;: &quot;remove&quot;
+               }
+               ]
+               }</desc>
+      </rect>
+      <desc
+         id="desc1001">{
+            &quot;tag&quot;: &quot;resource.mineral.gold&quot;,
+            &quot;tags&quot;: {
+            &quot;chunk&quot;: {},
+            &quot;state&quot;: {
+            &quot;unprocessed&quot;: {}
+            },
+            &quot;data&quot;: {
+            &quot;material_name&quot;: &quot;Gold&quot;,
+            &quot;material_tint&quot;: &quot;#be8f00&quot;
+            }
+            }
+            }</desc>
+      <title
+         id="title999">Gold Chunk</title>
+      <path
+         style="fill:#be8f00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 224,128 352,160 416,320 256,384 96,352 64,288 128,160 Z"
+         id="path18754"
+         inkscape:label="base_color" />
+      <path
+         style="opacity:0.428471;fill:#ececec;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 352,160 -160,64 64,160 160,-64 z"
+         id="path18756"
+         inkscape:label="shine_right" />
+      <path
+         style="opacity:0.661106;fill:#e6e6e6;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 192,224 -64,-64 96,-32 128,32 z"
+         id="path18758"
+         inkscape:label="shine_top" />
+    </g>
+    <g
+       id="stone_chunk"
+       inkscape:label="stone_chunk"
+       transform="translate(512,512)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7484"
+         width="512"
+         height="512"
+         x="0"
+         y="0"
+         inkscape:label="border">
+        <desc
+           id="desc7482">{
+               &quot;actions&quot;: [
+               {
+               &quot;type&quot;: &quot;remove&quot;
+               }
+               ]
+               }</desc>
+      </rect>
+      <desc
+         id="desc1005">{
+            &quot;tag&quot;: &quot;resource.mineral.stone&quot;,
+            &quot;tags&quot;: {
+            &quot;chunk&quot;: {},
+            &quot;state&quot;: {
+            &quot;unprocessed&quot;: {}
+            },
+            &quot;data&quot;: {
+            &quot;material_name&quot;: &quot;Stone&quot;,
+            &quot;material_tint&quot;: &quot;#666666&quot;
+            }
+            }
+            }</desc>
+      <title
+         id="title1003">Stone Chunk</title>
+      <path
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 224,128 352,160 416,320 256,384 96,352 64,288 128,160 Z"
+         id="path919"
+         inkscape:label="base_color" />
+      <path
+         style="opacity:0.428471;fill:#ececec;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 352,160 -160,64 64,160 160,-64 z"
+         id="path921"
+         inkscape:label="shine_right" />
+      <path
+         style="opacity:0.661106;fill:#e6e6e6;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 192,224 -64,-64 96,-32 128,32 z"
+         id="path923"
+         inkscape:label="shine_top" />
+    </g>
+    <g
+       id="pickaxe"
+       inkscape:label="pickaxe"
+       transform="translate(512)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect7480"
+         width="512"
+         height="512"
+         x="0"
+         y="0"
+         inkscape:label="border">
+        <desc
+           id="desc7478">{
+               &quot;actions&quot;: [
+               {
+               &quot;type&quot;: &quot;remove&quot;
+               }
+               ]
+               }</desc>
+      </rect>
+      <desc
+         id="desc5181">{
+            &quot;tag&quot;: &quot;tools.pickaxe&quot;,
+	    &quot;tags&quot;: {},
+            &quot;template&quot;: {
+            &quot;params&quot;: {
+            &quot;material&quot;: &quot;resource.mineral+state.unprocessed&quot;
+            },
+            &quot;defs&quot;: {
+            &quot;mat_name&quot;: {
+            &quot;type&quot;: &quot;tag_value&quot;,
+            &quot;from&quot;: &quot;material&quot;,
+            &quot;tag&quot;: &quot;data.material_name&quot;
+            },
+            &quot;mat_tint&quot;: {
+            &quot;type&quot;: &quot;tag_value&quot;,
+            &quot;from&quot;: &quot;material&quot;,
+            &quot;tag&quot;: &quot;data.material_tint&quot;
+            }
+            }
+            }
+            }
+         </desc>
+      <title
+         id="title5179">{mat_name} Pickaxe</title>
+      <path
+         style="fill:#2b1100;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 64,384 128,448 416,128 384,96 Z"
+         id="path1076-7"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="handle_base" />
+      <path
+         style="opacity:0.108407;fill:#fffefe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 64,384 C 100.88449,359.05011 373.82871,121.10782 416,128 L 384,96 Z"
+         id="path1076-7-5"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="handle_shine" />
+      <path
+         style="fill:#be8f00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 160,96 c 0,0 128,-64 224,32 96,96 32,224 32,224 0,0 0,-128 -64,-192 C 288,96 160,96 160,96 Z"
+         id="path2299"
+         sodipodi:nodetypes="czczc"
+         inkscape:label="head_base">
+        <desc
+           id="desc8830">{
+               &quot;actions&quot;: [
+               {
+               &quot;type&quot;: &quot;set_style&quot;,
+               &quot;value&quot;: &quot;fill&quot;,
+               &quot;from&quot;: &quot;{mat_tint}&quot;
+               }
+               ]
+               }</desc>
+      </path>
+      <path
+         id="path4606"
+         style="opacity:0.342137;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 253.02344,75.117188 C 200.5,75.75 160,96 160,96 160,96 282.07039,82.800537 333.9281,115.60847 385.78582,148.4164 416,192 435.30078,282.41992 440.67367,237.54011 434.37614,178.37614 384,128 342,86 293.875,74.625 253.02344,75.117188 Z"
+         sodipodi:nodetypes="sczcss"
+         inkscape:label="head_shine" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
+       id="border-3"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       inkscape:label="border">
+      <desc
+         id="desc7261-6">{
+            &quot;actions&quot;: [
+            {
+            &quot;type&quot;: &quot;remove&quot;
+            }
+            ]
+            }</desc>
+    </rect>
+  </g>
+  <metadata
+     id="metadata19294">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
