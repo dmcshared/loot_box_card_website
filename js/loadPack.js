@@ -192,7 +192,7 @@ function applyActions(instances) {
 }
 
 (async function () {
-  const packs = ["/packs/objects.svg"];
+  const packs = ["./packs/objects.svg"];
 
   const packItems = {
     definedTypes: [],
