@@ -141,12 +141,15 @@ function generateTemplateInstances(templates, defs) {
         }
       });
 
-      console.log(defs);
-
       let newInstance = template.cloneNode(true);
       newInstance.objData = template.objData;
+
+      for (let i in instance) {
+        newInstance.id = `${instance[i].id}_${newInstance.id}`;
+      }
+
       for (let i in defs) {
-        newInstance.id = newInstance.id.replaceAll("{" + i + "}", defs[i]);
+        // newInstance.id = newInstance.id.replaceAll("{" + i + "}", defs[i]);
         newInstance.innerHTML = newInstance.innerHTML.replaceAll(
           "{" + i + "}",
           defs[i]
@@ -216,6 +219,8 @@ function applyActions(instances) {
   );
 
   applyActions(packItems.definedTypes);
+
+  console.log(packItems.definedTypes);
 
   for (let i of packItems.definedTypes) {
     const s = (document.body.innerHTML += `
